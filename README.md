@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @franklin-lol
 - 👀 I’m interested all what i love
 - 🌱 I’m love my cat
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Cryptography & Ethick Hack
 - 📫 How to reach me franklin0alex@gmail.com (mark "From GitHub")
 - 💲 Donate bc1q568v0ezs0zpgs4nqa4x36re39e3eufhtjj9jm6
 <!---
