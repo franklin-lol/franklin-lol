@@ -3,8 +3,8 @@
 - 🌱 I’m love my cat
 - 💞️ I’m looking to collaborate on Cryptography & Ethick Hack
 - 📫 How to reach me franklin0alex@gmail.com (mark "From GitHub")
-- 💲 Donate:
-              **🟢 USDT (TRC20)**: `TSE6qB5efLq3bVuTrnU3FRvtEYQ9ktjUj4`
+- 💲 Donate: **🟢 USDT (TRC20)**: `TSE6qB5efLq3bVuTrnU3FRvtEYQ9ktjUj4`
+
               **🟠 Bitcoin (BTC)**: `1HS2bhG8VfMYaswFR3ww1yuXc9kb3hPteJ`
 <!---
 franklin-lol/franklin-lol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
