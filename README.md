@@ -67,12 +67,12 @@ Security  │ Provably Fair · JWT RS256 · initData HMAC · Rate limiting
 <tr>
 <td valign="top">
 
-[![Top Langs](https://streak-stats.demolab.com?user=franklin-lol&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&count_private=true)](https://github.com/franklin-lol)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-lol&layout=compact&theme=github_dark&hide_border=true&count_private=true)](https://github.com/franklin-lol)
 
 </td>
 <td valign="top">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=franklin-lol&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/franklin-lol)
+[![GitHub Streak](https://streak-stats.demolab.com?user=franklin-lol&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&count_private=true)](https://github.com/franklin-lol)
 
 </td>
 </tr>
@@ -91,4 +91,4 @@ Security  │ Provably Fair · JWT RS256 · initData HMAC · Rate limiting
 |---|---|
 | USDT TRC20 | `TSE6qB5efLq3bVuTrnU3FRvtEYQ9ktjUj4` |
 | BTC | `1HS2bhG8VfMYaswFR3ww1yuXc9kb3hPteJ` |
-| TON | `UQBuos0kN79t29fYUmPkk4J0S60RwxcsSuFJ8v-fYdcHqZ7e`  |
+| TON | `UQBuos0kN79t29fYUmPkk4J0S60RwxcsSuFJ8v-fYdcHqZ7e` |
