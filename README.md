@@ -1,33 +1,99 @@
-# 👋 Hi, I’m Franklin  
+# 👋 Hi, I’m Franklin
 
-💻 Indie hacker • 🔐 Cryptography enthusiast • 🐱 Cat lover  
-
----
-
-## 👀 About me  
-- ❤️ I build what I love  
-- 🌱 Exploring **cryptography & ethical hacking**  
-- 🐾 Cat > Coffee (always)  
-- 📬 Reach me: **fxranxklin@proton.me** (mark *"From GitHub"*)  
+💻 Indie hacker • 🔐 Cryptography • 🤖 Automation
 
 ---
 
-## 💡 I’m interested in
-- 🔑 Security & Privacy  
-- ⚡ Ethical Hacking  
-- 🤖 Automation & Telegram Bots  
-- 🎨 Creative Coding  
+## 👀 About me
+
+* I build real systems, not concepts
+* Focus: **security, finance logic, automation**
+* Working with Telegram ecosystem & backend architecture
+* 📬 Contact: **[fxranxklin@proton.me](mailto:fxranxklin@proton.me)** (*"From GitHub"*)
 
 ---
 
-## 💲 Support my work  
+## ⚡ What I actually do
 
-If my projects help you, you can support me:  
-
-- **🟢 USDT (TRC20)**: `TSE6qB5efLq3bVuTrnU3FRvtEYQ9ktjUj4`  
-- **🟠 Bitcoin (BTC)**: `1HS2bhG8VfMYaswFR3ww1yuXc9kb3hPteJ`  
+* Build **Telegram bots & Mini Apps** with complex logic
+* Design **investment systems & financial flows**
+* Create **microservice architectures**
+* Develop **authentication & authorization services**
+* Integrate **payment systems (crypto / fiat)**
+* Work with **smart contracts (basic level)**
+* Optimize **async systems & database load (SQLite focus)**
 
 ---
+
+## 🧠 Tech Stack
+
+* Python (async, aiogram)
+* SQLite (high-load handling)
+* REST APIs / Webhooks
+* Telegram Bot API / Mini Apps
+* Cryptography basics
+* System design (microservices)
+
+---
+
+## 🚀 Projects (private)
+
+> Most of my work is private, but here’s what I build:
+
+* 🔐 **Investment Platforms**
+  Full-cycle systems: deposits, withdrawals, referral logic, profit distribution
+
+* 🤖 **Telegram Bots Ecosystem**
+  Multi-role bots (admin / support / users) with automation & moderation
+
+* 🧩 **Microservices Architecture**
+  Separated services for payments, users, analytics, notifications
+
+* 💳 **Payment Integrations**
+  Crypto (USDT, BTC) + external APIs, transaction validation
+
+* 🪪 **Auth Systems**
+  Custom verification flows, document handling, access control
+
+* ⚙️ **Automation Tools**
+  Scripts & services for reducing manual operations
+
+---
+
+## 🧪 Currently building
+
+* Scalable Telegram financial system
+* Referral engine (multi-level logic)
+* Async architecture optimization (no DB locks)
+
+---
+
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=franklin-lol&theme=radical&margin-w=15&margin-h=15&column=6" alt="trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franklin-lol&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franklin-lol&theme=radical" />
+</p>
+
+---
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&theme=react-dark" />
+</p>
+
+---
+
+## 💲 Support
+
+If my work is useful:
+
+* **USDT (TRC20)**: `TSE6qB5efLq3bVuTrnU3FRvtEYQ9ktjUj4`
+* **Bitcoin (BTC)**: `1HS2bhG8VfMYaswFR3ww1yuXc9kb3hPteJ`
+
+---
+
+## 🐾 Fun
+
+Cat > Coffee
