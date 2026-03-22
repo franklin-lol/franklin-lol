@@ -91,4 +91,4 @@ Security  │ Provably Fair · JWT RS256 · initData HMAC · Rate limiting
 |---|---|
 | USDT TRC20 | `TSE6qB5efLq3bVuTrnU3FRvtEYQ9ktjUj4` |
 | BTC | `1HS2bhG8VfMYaswFR3ww1yuXc9kb3hPteJ` |
-| TON | `UQ...` *(on request)* |
+| TON | `UQBuos0kN79t29fYUmPkk4J0S60RwxcsSuFJ8v`  |
