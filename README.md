@@ -80,7 +80,6 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franklin-lol&show_icons=true&theme=radical&hide_border=true&hide=issues,contribs" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-lol&layout=compact&theme=radical&hide_border=true" />
 </p>
 
