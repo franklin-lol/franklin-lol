@@ -1,112 +1,66 @@
-# 👋 Hi, I’m Franklin
+# Franklin
 
-💻 Indie hacker • 🔐 Cryptography • 🤖 Automation
+Backend engineer · Cryptography · Telegram ecosystem · Financial systems
 
----
-
-## 👀 About me
-
-* I build real systems, not concepts
-* Focus: **security, finance logic, automation**
-* Working with Telegram ecosystem & backend architecture
-* 📬 Contact: **[fxranxklin@proton.me](mailto:fxranxklin@proton.me)** (*"From GitHub"*)
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-async-3572A5?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-high--load-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-Bot+MiniApp-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![Crypto](https://img.shields.io/badge/Payments-USDT%20%7C%20BTC-F7931A?style=flat-square)
 
 ---
 
-## ⚡ What I actually do
+## ◆ What I build
 
-* Build **Telegram bots & Mini Apps** with complex logic
-* Design **investment systems & financial flows**
-* Create **microservice architectures**
-* Develop **authentication & authorization services**
-* Integrate **payment systems (crypto / fiat)**
-* Work with **smart contracts (basic level)**
-* Optimize **async systems & database load (SQLite focus)**
-
----
-
-## 🧠 Tech Stack
-
-* Python (async, aiogram)
-* SQLite (high-load handling)
-* REST APIs / Webhooks
-* Telegram Bot API / Mini Apps
-* Cryptography basics
-* System design (microservices)
+▸ **Telegram bots & Mini Apps** — multi-role systems (admin / support / users), moderation, automation  
+▸ **Investment platforms** — deposits, withdrawals, referral trees, profit distribution  
+▸ **Payment integrations** — USDT/BTC, external APIs, transaction validation  
+▸ **Auth systems** — custom verification flows, document handling, access control  
+▸ **Microservice architectures** — separated services for payments, users, analytics, notifications  
+▸ **Async optimization** — SQLite under load, eliminating DB locks  
 
 ---
 
-## 🚀 Projects (private)
+## ◆ Currently building
 
-> Most of my work is private, but here’s what I build:
+▸ Scalable Telegram financial system  
+▸ Referral engine — multi-level logic  
+▸ Async architecture without locks under DB load  
 
-* 🔐 **Investment Platforms**
-  Full-cycle systems: deposits, withdrawals, referral logic, profit distribution
-
-* 🤖 **Telegram Bots Ecosystem**
-  Multi-role bots (admin / support / users) with automation & moderation
-
-* 🧩 **Microservices Architecture**
-  Separated services for payments, users, analytics, notifications
-
-* 💳 **Payment Integrations**
-  Crypto (USDT, BTC) + external APIs, transaction validation
-
-* 🪪 **Auth Systems**
-  Custom verification flows, document handling, access control
-
-* ⚙️ **Automation Tools**
-  Scripts & services for reducing manual operations
+> Most work lives in private repos. Deep work over commit streaks.
 
 ---
 
-## 🧪 Currently building
-
-* Scalable Telegram financial system
-* Referral engine (multi-level logic)
-* Async architecture optimization (no DB locks)
-
----
-
-## ⚡ Development Style
-
-* Deep work over frequent commits
-* Systems built end-to-end before exposure
-* Most activity happens in private environments
-* Focus on architecture, not commit streaks
-
----
-
-## 📈 Activity
+## ◆ Activity
 
 <div align="center">
 
 <table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-lol&layout=compact&theme=radical&hide_border=true&count_private=true" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=franklin-lol&theme=radical&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" />
-    </td>
-  </tr>
+<tr>
+<td valign="top">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-lol&layout=compact&theme=github_dark&hide_border=true&count_private=true)](https://github.com/franklin-lol)
+
+</td>
+<td valign="top">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=franklin-lol&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/franklin-lol)
+
+</td>
+</tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&theme=react-dark&hide_border=true&days=180" width="100%" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&theme=github-compact&hide_border=true&days=180)](https://github.com/franklin-lol)
 
 </div>
 
 ---
 
-## 💲 Support
+## ◆ Contact
 
-If my work is useful:
+`fxranxklin@proton.me` · mention **From GitHub**
 
-* **USDT (TRC20)**: `TSE6qB5efLq3bVuTrnU3FRvtEYQ9ktjUj4`
-* **Bitcoin (BTC)**: `1HS2bhG8VfMYaswFR3ww1yuXc9kb3hPteJ`
-
----
-
-## 🐾 Fun
-
-Cat > Coffee
+| Network | Address |
+|---|---|
+| USDT TRC20 | `TSE6qB5efLq3bVuTrnU3FRvtEYQ9ktjUj4` |
+| BTC | `1HS2bhG8VfMYaswFR3ww1yuXc9kb3hPteJ` |
