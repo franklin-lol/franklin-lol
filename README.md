@@ -79,10 +79,22 @@
 
 ## 📈 Activity
 
-<p align="center">
-  <strong>📊 GitHub Stats & Activity</strong><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-lol&layout=compact&theme=radical&hide_border=true" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&theme=react-dark&hide_border=true&days=180" />
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-lol&layout=compact&theme=radical&hide_border=true&count_private=true" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=franklin-lol&theme=radical&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&theme=react-dark&hide_border=true&days=180" width="100%" />
+
+</div>
 
 ---
 
