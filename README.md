@@ -68,11 +68,20 @@
 
 ---
 
+## ⚡ Development Style
+
+* Deep work over frequent commits
+* Systems built end-to-end before exposure
+* Most activity happens in private environments
+* Focus on architecture, not commit streaks
+
+---
+
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franklin-lol&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franklin-lol&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franklin-lol&show_icons=true&theme=radical&hide_border=true&hide=issues,contribs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-lol&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -80,7 +89,7 @@
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&theme=react-dark&hide_border=true" />
 </p>
 
 ---
