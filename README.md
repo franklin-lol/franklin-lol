@@ -80,8 +80,8 @@
 ## 📈 Activity
 
 <p align="center">
-  <strong>📊 GitHub Stats & Activity</strong><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-lol&layout=compact&theme=radical&hide_border=true" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&theme=react-dark&hide_border=true&height=300&days=180" />
+  <strong>📊 GitHub Stats & Activity</strong><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-lol&layout=compact&theme=radical&hide_border=true" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&theme=react-dark&hide_border=true&days=180" />
 </p>
 
 ---
