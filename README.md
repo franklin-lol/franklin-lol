@@ -66,8 +66,8 @@ Security  │ Provably Fair · JWT RS256 · initData HMAC · Rate limiting
 <table>
 <tr>
 <td valign="top">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=franklin-lol&layout=compact&theme=github_dark&hide_border=true)](https://github.com/franklin-lol)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-lol&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=6)](https://github.com/franklin-lol)
 
 </td>
 <td valign="top">
