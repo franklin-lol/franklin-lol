@@ -63,22 +63,11 @@ Security  │ Provably Fair · JWT RS256 · initData HMAC · Rate limiting
 ## ◆ Activity
 
 <div align="center">
-<table>
-<tr>
-<td valign="top">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-lol&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=6)](https://github.com/franklin-lol)
-
-</td>
-<td valign="top">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=franklin-lol&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&count_private=true)](https://github.com/franklin-lol)
 
-</td>
-</tr>
-</table>
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&theme=github-compact&hide_border=true&days=180&count_private=true)](https://github.com/franklin-lol)
+
 </div>
 
 ---
