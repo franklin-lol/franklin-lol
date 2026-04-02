@@ -62,8 +62,6 @@ Security  │ Provably Fair · JWT RS256 · initData HMAC · Rate limiting
 
 ## ◆ Activity
 
-## ◆ Activity
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=franklin-lol&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&count_private=true&card_width=800)](https://github.com/franklin-lol)
