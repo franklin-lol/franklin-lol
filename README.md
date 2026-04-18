@@ -38,11 +38,14 @@ Backend engineer · Cryptography · Telegram ecosystem · Financial systems
 &nbsp;&nbsp;&nbsp;&nbsp;Payment system: USDT TRC20 · TON · Card via Altyn · Hidden fee model  
 &nbsp;&nbsp;&nbsp;&nbsp;BullMQ payout queue · SSE live feed · Referral engine · i18n (RU/EN)  
 
+▸ **Crypto Wallet** — self-custodial multi-chain wallet  
+&nbsp;&nbsp;&nbsp;&nbsp;`React + TypeScript · Node.js backend`  
+&nbsp;&nbsp;&nbsp;&nbsp;USDT TRC20 · TON · BTC · on-chain tx verification  
+&nbsp;&nbsp;&nbsp;&nbsp;Key derivation · address generation · balance tracking · transfer flow  
+
 ▸ **Scalable Telegram financial system**  
 ▸ **Referral engine** — multi-level logic, on-chain bonus distribution  
-▸ **Async architecture** without locks under DB load  
-
-> Most work lives in private repos. Deep work over commit streaks.
+▸ **Async architecture** without locks under DB load
 
 ---
 
