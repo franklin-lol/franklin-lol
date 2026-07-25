@@ -1,64 +1,85 @@
-<div align="center">
+# Franklin
+Backend engineer · Cryptography · Telegram ecosystem · Financial systems
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=CCCCCC&center=true&vCenter=true&width=520&lines=Franklin;Backend+Engineer;Cryptography+%26+Financial+Systems;Building+in+silence." alt="typing banner" />
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![aiogram](https://img.shields.io/badge/aiogram-async-3572A5?style=flat-square)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-high--load-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-Bot+MiniApp-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![Crypto](https://img.shields.io/badge/Payments-USDT%20%7C%20TON%20%7C%20BTC-F7931A?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<br>
+---
 
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=CCCCCC)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=CCCCCC)
-![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=CCCCCC)
-![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=CCCCCC)
-![Postgres](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=CCCCCC)
-![Redis](https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=CCCCCC)
-![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=CCCCCC)
+## ◆ What I build
 
-</div>
+▸ **Telegram bots & Mini Apps** — multi-role systems (admin / support / users), moderation, automation  
+▸ **Full-stack TMA platforms** — React frontends with Fastify/Node backends, Prisma ORM, Redis queues  
+▸ **Investment platforms** — deposits, withdrawals, referral trees, profit distribution  
+▸ **Payment integrations** — USDT TRC20, TON, BTC, Altyn card gateway, on-chain tx verification, hidden fee models  
+▸ **Provably Fair gaming** — SHA-256 commitment schemes, client-side verification, cryptographic ticket generation  
+▸ **Auth systems** — Telegram initData validation (HMAC-SHA256), JWT, custom verification flows  
+▸ **Real-time infrastructure** — SSE fan-out, BullMQ async queues, Redis pub/sub, WebSocket-free live feeds  
+▸ **Microservice architectures** — separated services for payments, users, analytics, notifications  
+▸ **Async optimization** — SQLite/PostgreSQL under load, eliminating DB locks, connection pooling  
 
-<br>
+---
 
-### ◆ Focus
+## ◆ Currently building
+
+▸ **ЛяБуду** — Telegram Mini App lottery platform  
+&nbsp;&nbsp;&nbsp;&nbsp;`React + Framer Motion` · `Fastify + Prisma + PostgreSQL + Redis`  
+&nbsp;&nbsp;&nbsp;&nbsp;Provably Fair (SHA-256) · Multi-game (Lottery ×222, Slots, Wheel, Blackjack)  
+&nbsp;&nbsp;&nbsp;&nbsp;Payment system: USDT TRC20 · TON · Card via Altyn · Hidden fee model  
+&nbsp;&nbsp;&nbsp;&nbsp;BullMQ payout queue · SSE live feed · Referral engine · i18n (RU/EN)  
+
+▸ **Crypto Wallet** — self-custodial multi-chain wallet  
+&nbsp;&nbsp;&nbsp;&nbsp;`React + TypeScript · Node.js backend`  
+&nbsp;&nbsp;&nbsp;&nbsp;USDT TRC20 · TON · BTC · on-chain tx verification  
+&nbsp;&nbsp;&nbsp;&nbsp;Key derivation · address generation · balance tracking · transfer flow  
+
+▸ **Scalable Telegram financial system**  
+▸ **Referral engine** — multi-level logic, on-chain bonus distribution  
+▸ **Async architecture** without locks under DB load
+
+---
+
+## ◆ Stack snapshot
 
 ```
-Telegram bots & Mini Apps       multi-role systems, moderation, automation
-Full-stack TMA platforms        React · Fastify · Prisma · Redis
-Payment infrastructure          USDT TRC20 · TON · BTC · on-chain verification
-Provably Fair systems           SHA-256 commitment schemes, client-side proof
-Auth & security                 initData HMAC-SHA256 · JWT RS256 · rate limiting
-Async architecture              lock-free DB access under high load
+Frontend  │ React 18 · TypeScript · Vite · Tailwind · Framer Motion · Zustand
+Backend   │ Node.js · Fastify · Prisma ORM · BullMQ · ioredis
+Database  │ PostgreSQL · Redis · SQLite (high-load async)
+Crypto    │ USDT TRC20 (TronScan) · TON (TonCenter) · BTC (BlockCypher)
+Payments  │ Altyn merchant API · HMAC-SHA256 signing · Webhook verification
+Infra     │ Docker Compose · nginx (reverse proxy + SSE) · Telegram Webhooks
+Security  │ Provably Fair · JWT RS256 · initData HMAC · Rate limiting
 ```
 
-<br>
+---
 
-### ◆ In development
-
-**ЛяБуду** — Telegram Mini App lottery platform
-`React · Framer Motion · Fastify · Prisma · PostgreSQL · Redis`
-Provably Fair core · multi-game (lottery, slots, wheel, blackjack) · BullMQ payouts · SSE live feed · referral engine · i18n
-
-**Self-custodial multi-chain wallet**
-`React · TypeScript · Node.js`
-Key derivation · address generation · on-chain tx verification · balance tracking
-
-<br>
+## ◆ Activity
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=franklin-lol&show_icons=true&theme=dark&hide_border=true&title_color=CCCCCC&text_color=888888&icon_color=CCCCCC&bg_color=0D1117)
+[![GitHub Streak](https://streak-stats.demolab.com?user=franklin-lol&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&count_private=true&card_width=800)](https://github.com/franklin-lol)
 
-![streak](https://streak-stats.demolab.com?user=franklin-lol&theme=dark&hide_border=true&background=0D1117&ring=CCCCCC&fire=CCCCCC&currStreakLabel=CCCCCC)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&theme=github-compact&hide_border=true&days=180&count_private=true)](https://github.com/franklin-lol)
 
 </div>
+---
 
-<br>
+## ◆ Contact
 
-<div align="center">
+`fxranxklin@proton.me` · mention **From GitHub**
 
-**`fxranxklin@proton.me`** — mention *From GitHub*
-[franklin-sys.vercel.app](https://franklin-sys.vercel.app/)
-
-| USDT TRC20 | `TSE6qB5efLq3bVuTrnU3FRvtEYQ9ktjUj4` |
+| Network | Address |
 |---|---|
+| USDT TRC20 | `TSE6qB5efLq3bVuTrnU3FRvtEYQ9ktjUj4` |
 | BTC | `1HS2bhG8VfMYaswFR3ww1yuXc9kb3hPteJ` |
 | TON | `UQBuos0kN79t29fYUmPkk4J0S60RwxcsSuFJ8v-fYdcHqZ7e` |
-
-</div>
