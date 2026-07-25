@@ -1,6 +1,8 @@
 # Franklin
 Backend engineer · Cryptography · Telegram ecosystem · Financial systems
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=888888&center=false&vCenter=true&width=600&lines=Building+in+silence.+Deploying+in+the+dark." alt="tagline" />
+
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -34,18 +36,17 @@ Backend engineer · Cryptography · Telegram ecosystem · Financial systems
 
 ▸ **ЛяБуду** — Telegram Mini App lottery platform  
 &nbsp;&nbsp;&nbsp;&nbsp;`React + Framer Motion` · `Fastify + Prisma + PostgreSQL + Redis`  
-&nbsp;&nbsp;&nbsp;&nbsp;Provably Fair (SHA-256) · Multi-game (Lottery ×222, Slots, Wheel, Blackjack)  
-&nbsp;&nbsp;&nbsp;&nbsp;Payment system: USDT TRC20 · TON · Card via Altyn · Hidden fee model  
-&nbsp;&nbsp;&nbsp;&nbsp;BullMQ payout queue · SSE live feed · Referral engine · i18n (RU/EN)  
+&nbsp;&nbsp;&nbsp;&nbsp;Provably Fair (SHA-256) core · live multi-game suite (Lottery ×222, Slots, Wheel, Blackjack)  
+&nbsp;&nbsp;&nbsp;&nbsp;Payments: USDT TRC20 · TON · Card via Altyn · hidden fee model  
+&nbsp;&nbsp;&nbsp;&nbsp;BullMQ payout queue · SSE live feed · referral engine · i18n (RU/EN)
 
-▸ **Crypto Wallet** — self-custodial multi-chain wallet  
+▸ **Crypto Wallet** — self-custodial multi-chain wallet, in active integration testing  
 &nbsp;&nbsp;&nbsp;&nbsp;`React + TypeScript · Node.js backend`  
-&nbsp;&nbsp;&nbsp;&nbsp;USDT TRC20 · TON · BTC · on-chain tx verification  
-&nbsp;&nbsp;&nbsp;&nbsp;Key derivation · address generation · balance tracking · transfer flow  
+&nbsp;&nbsp;&nbsp;&nbsp;USDT TRC20 · TON · BTC · on-chain tx verification · key derivation · address generation
 
-▸ **Scalable Telegram financial system**  
-▸ **Referral engine** — multi-level logic, on-chain bonus distribution  
-▸ **Async architecture** without locks under DB load
+▸ **Financial system core** — scaling the shared payment/ledger layer across both platforms  
+▸ **Referral engine v2** — multi-level payout logic, on-chain bonus distribution  
+▸ **Async architecture** — lock-free DB access path, load-tested under concurrent writes
 
 ---
 
@@ -67,11 +68,12 @@ Security  │ Provably Fair · JWT RS256 · initData HMAC · Rate limiting
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=franklin-lol&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&count_private=true&card_width=800)](https://github.com/franklin-lol)
+[![GitHub Streak](https://streak-stats.demolab.com?user=franklin-lol&theme=dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/franklin-lol)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&theme=github-compact&hide_border=true&days=180&count_private=true)](https://github.com/franklin-lol)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&theme=github-compact&hide_border=true&bg_color=0D1117&days=180)](https://github.com/franklin-lol)
 
 </div>
+
 ---
 
 ## ◆ Contact
