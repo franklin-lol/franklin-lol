@@ -1,8 +1,12 @@
-<img src="./franklin-name.svg" alt="Franklin" width="380" />
+<div align="center">
 
-Backend engineer · Cryptography · Telegram ecosystem · Financial systems
+<img src="./franklin-name.svg" alt="Franklin" width="360" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=888888&center=false&vCenter=true&width=600&lines=Building+in+silence.+Deploying+in+the+dark." alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=999999&center=true&vCenter=true&width=460&lines=Building+in+silence.+Deploying+in+the+dark." alt="tagline" />
+
+<sub>BACKEND ENGINEER&nbsp;&nbsp;·&nbsp;&nbsp;CRYPTOGRAPHY&nbsp;&nbsp;·&nbsp;&nbsp;TELEGRAM ECOSYSTEM&nbsp;&nbsp;·&nbsp;&nbsp;FINANCIAL SYSTEMS</sub>
+
+<br><br>
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -16,6 +20,8 @@ Backend engineer · Cryptography · Telegram ecosystem · Financial systems
 ![Telegram](https://img.shields.io/badge/Telegram-Bot+MiniApp-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![Crypto](https://img.shields.io/badge/Payments-USDT%20%7C%20TON%20%7C%20BTC-F7931A?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
@@ -69,9 +75,9 @@ Security  │ Provably Fair · JWT RS256 · initData HMAC · Rate limiting
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=franklin-lol&theme=dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/franklin-lol)
+[![GitHub Streak](https://streak-stats.demolab.com?user=franklin-lol&hide_border=true&background=0D1117&border=0D1117&stroke=333333&ring=CCCCCC&fire=CCCCCC&currStreakNum=FFFFFF&sideNums=CCCCCC&currStreakLabel=999999&sideLabels=999999&dates=666666&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/franklin-lol)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&theme=github-compact&hide_border=true&bg_color=0D1117&days=180)](https://github.com/franklin-lol)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&hide_border=true&hide_title=true&bg_color=0D1117&color=888888&line=CCCCCC&point=FFFFFF&area=true&area_color=1A1A1A&days=180)](https://github.com/franklin-lol)
 
 </div>
 
