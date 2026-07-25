@@ -1,4 +1,5 @@
-# Franklin
+<img src="./franklin-name.svg" alt="Franklin" width="380" />
+
 Backend engineer · Cryptography · Telegram ecosystem · Financial systems
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=888888&center=false&vCenter=true&width=600&lines=Building+in+silence.+Deploying+in+the+dark." alt="tagline" />
