@@ -43,9 +43,9 @@ Key derivation · address generation · on-chain tx verification · balance trac
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=franklin-lol&show_icons=true&theme=dark&hide_border=true&title_color=CCCCCC&text_color=888888&icon_color=CCCCCC&bg_color=00000000)
+![stats](https://github-readme-stats.vercel.app/api?username=franklin-lol&show_icons=true&theme=dark&hide_border=true&title_color=CCCCCC&text_color=888888&icon_color=CCCCCC&bg_color=0D1117)
 
-![streak](https://streak-stats.demolab.com?user=franklin-lol&theme=dark&hide_border=true&background=00000000&ring=CCCCCC&fire=CCCCCC&currStreakLabel=CCCCCC)
+![streak](https://streak-stats.demolab.com?user=franklin-lol&theme=dark&hide_border=true&background=0D1117&ring=CCCCCC&fire=CCCCCC&currStreakLabel=CCCCCC)
 
 </div>
 
