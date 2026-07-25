@@ -1,6 +1,8 @@
 # Franklin
 Backend engineer · Cryptography · Telegram ecosystem · Financial systems
 
+*Building in silence. Deploying in the dark.*
+
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -30,7 +32,22 @@ Backend engineer · Cryptography · Telegram ecosystem · Financial systems
 
 ---
 
-## ◆ Currently building
+## ◆ Public repos
+
+<div align="center">
+
+| | |
+|---|---|
+| [![snake-miniapp](https://github-readme-stats.vercel.app/api/pin/?username=franklin-lol&repo=snake-miniapp&theme=github-dark&hide_border=true)](https://github.com/franklin-lol/snake-miniapp) | [![serverint-ub](https://github-readme-stats.vercel.app/api/pin/?username=franklin-lol&repo=serverint-ub&theme=github-dark&hide_border=true)](https://github.com/franklin-lol/serverint-ub) |
+| [![btc-wallet-tool](https://github-readme-stats.vercel.app/api/pin/?username=franklin-lol&repo=btc-wallet-tool&theme=github-dark&hide_border=true)](https://github.com/franklin-lol/btc-wallet-tool) | [![referral-engine](https://github-readme-stats.vercel.app/api/pin/?username=franklin-lol&repo=referral-engine&theme=github-dark&hide_border=true)](https://github.com/franklin-lol/referral-engine) |
+
+</div>
+
+🏆 `Galaxy Brain` · `Starstruck` · `Pull Shark ×2` · `Pair Extraordinaire` — [full list →](https://github.com/franklin-lol?tab=achievements)
+
+---
+
+## ◆ Currently building (private)
 
 ▸ **ЛяБуду** — Telegram Mini App lottery platform  
 &nbsp;&nbsp;&nbsp;&nbsp;`React + Framer Motion` · `Fastify + Prisma + PostgreSQL + Redis`  
@@ -58,6 +75,7 @@ Database  │ PostgreSQL · Redis · SQLite (high-load async)
 Crypto    │ USDT TRC20 (TronScan) · TON (TonCenter) · BTC (BlockCypher)
 Payments  │ Altyn merchant API · HMAC-SHA256 signing · Webhook verification
 Infra     │ Docker Compose · nginx (reverse proxy + SSE) · Telegram Webhooks
+Tooling   │ Bash/Shell (server hardening) · PyQt6 (desktop GUI)
 Security  │ Provably Fair · JWT RS256 · initData HMAC · Rate limiting
 ```
 
@@ -72,11 +90,13 @@ Security  │ Provably Fair · JWT RS256 · initData HMAC · Rate limiting
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&theme=github-compact&hide_border=true&days=180&count_private=true)](https://github.com/franklin-lol)
 
 </div>
+
 ---
 
 ## ◆ Contact
 
-`fxranxklin@proton.me` · mention **From GitHub**
+`fxranxklin@proton.me` · mention **From GitHub**  
+Portfolio: [franklin-sys.vercel.app →](https://franklin-sys.vercel.app/)
 
 | Network | Address |
 |---|---|
