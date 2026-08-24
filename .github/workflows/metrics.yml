@@ -21,19 +21,14 @@ jobs:
           base: "header, activity"
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: no
           config_timezone: Europe/Moscow
           config_display: large
           extras_css: |
             svg { color: #999999 !important; }
             h1, h2, h3 { color: #CCCCCC !important; }
             .field svg { fill: #666666 !important; }
-            :root {
-              --color-calendar-graph-day-bg: #1a1a1a !important;
-              --color-calendar-graph-day-border: rgba(255,255,255,0.06) !important;
-              --color-calendar-graph-day-L1-bg: #333333 !important;
-              --color-calendar-graph-day-L2-bg: #555555 !important;
-              --color-calendar-graph-day-L3-bg: #888888 !important;
-              --color-calendar-graph-day-L4-bg: #cccccc !important;
-            }
+            .field * { color: inherit !important; }
+            svg.calendar { filter: grayscale(1) brightness(1.35) contrast(1.05) !important; }
