@@ -21,9 +21,6 @@ jobs:
           base: "header, activity"
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_facts: no
           config_timezone: Europe/Moscow
           config_display: large
           extras_css: |
@@ -31,4 +28,3 @@ jobs:
             h1, h2, h3 { color: #CCCCCC !important; }
             .field svg { fill: #666666 !important; }
             .field * { color: inherit !important; }
-            svg.calendar { filter: grayscale(1) brightness(1.35) contrast(1.05) !important; }
