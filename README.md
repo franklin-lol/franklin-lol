@@ -75,7 +75,7 @@ Security  │ Provably Fair · JWT RS256 · initData HMAC · Rate limiting
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=franklin-lol&hide_border=true&background=0D1117&border=0D1117&stroke=333333&ring=CCCCCC&fire=CCCCCC&currStreakNum=FFFFFF&sideNums=CCCCCC&currStreakLabel=999999&sideLabels=999999&dates=666666&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/franklin-lol)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franklin-lol&show_icons=true&hide_border=true&bg_color=0D1117&title_color=CCCCCC&text_color=999999&icon_color=666666&border_color=333333&rank_icon=percentile&include_all_commits=true&count_private=true)](https://github.com/franklin-lol)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=franklin-lol&hide_border=true&hide_title=true&bg_color=0D1117&color=888888&line=CCCCCC&point=FFFFFF&area=true&area_color=1A1A1A&days=180)](https://github.com/franklin-lol)
 
