@@ -2,24 +2,13 @@
 
 <img src="./franklin-name.svg" alt="Franklin" width="360" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=999999&center=true&vCenter=true&width=460&lines=Building+in+silence.+Deploying+in+the+dark." alt="tagline" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=999999&center=true&vCenter=true&width=460&lines=Building+in+silence.+Deploying+in+the+dark.">
+  <img alt="Building in silence. Deploying in the dark." src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='460' height='30'%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='Fira Code,monospace' font-size='16' fill='%23999999'%3EBuilding in silence. Deploying in the dark.%3C/text%3E%3C/svg%3E">
+</picture>
 
 <sub>BACKEND ENGINEER&nbsp;&nbsp;·&nbsp;&nbsp;CRYPTOGRAPHY&nbsp;&nbsp;·&nbsp;&nbsp;TELEGRAM ECOSYSTEM&nbsp;&nbsp;·&nbsp;&nbsp;FINANCIAL SYSTEMS</sub>
 
-<br><br>
-
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![aiogram](https://img.shields.io/badge/aiogram-async-3572A5?style=flat-square)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-high--load-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-Bot+MiniApp-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![Crypto](https://img.shields.io/badge/Payments-USDT%20%7C%20TON%20%7C%20BTC-F7931A?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
